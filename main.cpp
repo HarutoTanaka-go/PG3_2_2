@@ -10,6 +10,7 @@ int Recursive(int kyuuryou, int zikan, int kotei)
 
 
 
+
     printf("%d@%d\n", kyuuryou, kotei);
     kyuuryou = kyuuryou * 2 - 50;
 
